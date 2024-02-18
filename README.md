@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instructions
 
 ## Download
@@ -136,3 +137,7 @@ You can check your live server is working by going to:
 ```plain
 http://localhost:4173/health
 ```
+=======
+# ChatBot
+Chatbot made with frontend and backend support with React.js.
+>>>>>>> origin/main
